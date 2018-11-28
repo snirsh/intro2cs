@@ -1,0 +1,42 @@
+avivf
+200687747
+Aviv Feldman-Gur
+
+have consulted with snir sharristh - snirsh.
+======================================================================
+= 						README for ex10:						     =
+======================================================================
+
+=====================================================
+= 					 List of Files: 				=
+=====================================================
+Files submitted:
+README this file
+ex10.py main program file
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+read_article_links which reads a text
+class article - creates an article object
+class WikiNetwork - creates a dictionary of articles from given file
+
+
+======================
+=  Special Comments  =
+======================
+0. Total articles found 4581.
+1. running ranking with values (50,0.9) generated this 3 top articles:
+(rankings are 1 most right to 3 most left here)
+France Europe United_Kingdom
+2. The 2nd most jaccard indexed articles where left side is the given article
+and right side is the 2nd most jaccard indexed value:
+Scotland
+Yemen
+Driving_on_the_left_or_right
+Calculus
+Adolf_Hitler
+3. Precent of the articles of all the articles with dist = 1 from
+Christopher_Columbus - 0.91%
+dist =2 from DNA - 14.23%
+dist =3 from History - 62.14%

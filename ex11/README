@@ -1,0 +1,50 @@
+snirsh
+305500001
+Snir Sharristh
+
+have consulted with avivf.
+======================================================================
+= 						README for ex10:						     =
+======================================================================
+
+=====================================================
+= 					 List of Files: 				=
+=====================================================
+Files submitted:
+README this file
+ex11.py main program file
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+Our main program is ex11.py, in this program we have different methods with
+each one creating or using a different functions.
+our function list is:
+plot_func - the drawing function. this function receives a range and draws a
+            the graph there (we use segments to divide it into smaller
+            linear lines)
+const_function - creates the constant function of c s.t f(x) = c
+identity -  creates the identity function s.t f(x) = x
+sin_function - creates the function sin(x)
+sum_functions - with the input of g, h as two functions the function will
+                create the function f(x) such that f(x) = g(x) + h(x)
+sub_functions - with the input of g, h as two functions the function will
+                create the function f(x) such that f(x) = g(x) - h(x)
+mul_functions - with the input of g, h as two functions the function will
+                create the function f(x) such that f(x) = g(x) * h(x)
+div_functions - with the input of g, h as two functions the function will
+                create the function f(x) such that f(x) = g(x) / h(x)
+solves      -   return the solution to f in the range between x0 and x1
+inverse     -   creates f s.t. f(g(x)) = x
+compose     -   return the f which is the compose of g and h
+derivative  -   return f s.t. f(x) = g'(x)
+definite_integral - returns the definitive integral of given f(x) from x0 to
+                x1
+integral_function - return F such that F'(x) = f(x)
+
+more info in the program itself
+
+
+======================
+=  Special Comments  =
+======================

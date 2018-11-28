@@ -1,0 +1,48 @@
+snirsh
+305500001
+Snir Sharristh
+
+haven't consulted with anyone.
+
+list of URLs:
+https://en.wikipedia.org/wiki/Tower_of_Hanoi - for the algorithem for the
+towers of hanoi game.
+https://en.wikipedia.org/wiki/Permutation#Algorithms_to_generate_permutations
+- permutations in wikipedia for the last functions
+
+======================================================================
+= 						README for ex6:								 =
+======================================================================
+
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+the program that is written in ex7.py, using hanoi_game.py, for one of the
+functions. where hanoi_game.py is responsible for the GUI for one of our
+functions.
+
+ex7.py is consisted of different functions that mostly use recursion for
+their purpose.
+here is a small description of the main functions:
+print_to_n()    printing all the numbers from 1 to n
+print_reversed()printing all the numbers from n to 1
+is_prime()      checking if a given number is a prime number
+divisors()      a function that will return a list with all the divisors of
+                n from 1 to n.
+exp_n_x()       a function that will calculate the sum(from 0 to n) exp of x
+play_hanoi()    a recursive function that let's us play the Towers of Hanoi
+                game using the GUI from hanoi_game.py
+print_binary_sequences()  this function prints all the binary sequences of n
+                          size
+print sequences() a function that will print all the possible sequences of a
+                given the sequences will be of n size (given value)
+print_no_repetition_sequences() printing all the possible sequences just
+                                like the last function but it will not print
+                                all the repetitions.
+no_repetition_sequences_list()  creating a list with all the possible sequences
+                                except for the repetitions.
+======================
+=  Special Comments  =
+======================
+None.

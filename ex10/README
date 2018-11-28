@@ -1,0 +1,58 @@
+snirsh
+305500001
+Snir Sharristh
+
+have consulted with avivf.
+======================================================================
+= 						README for ex10:						     =
+======================================================================
+
+=====================================================
+= 					 List of Files: 				=
+=====================================================
+Files submitted:
+README this file
+ex10.py main program file
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+First we have a simple function named read_article_links which reads a text
+file and creates the base of this exercise.
+In this exercise we've created two classes: Article and WikiNetwork.
+=ARTICLE=
+The Article object is a simple object that has name (article's name which is
+given) and neighbors which is all the articles he links to.
+list of functions in article:
+init, get_name, add_neighbor, get_neighbors, __repr__, __len__,__contains__
+
+=WikiNetwork=
+a dictionary of articles that doest different functions to get more
+information about how the articles are linked to each other.
+list of functions in WikiNetwork:
+init, create_articles(i've added a creator for init and update functions),
+update_network, get_articles(network values),get_title(network keys),
+__repr__, __len__,__contains__, __getitem__, page_rank, get_money(helper for
+page rank that i've created), jaccard_index, travel_path_iterator,
+rank_article(i've added as helper for travel_path_iterator), friends_by_depth
+( CHECK ex10.py FILE FOR MORE INFO ABOUT EACH OF THE FUNCTIONS)
+
+
+======================
+=  Special Comments  =
+======================
+0. Total articles found 4579.
+1. running ranking with values (50,0.9) generated this 3 top articles:
+(rankings are 1 most right to 3 most left here)
+France Europe United_Kingdom
+2. The 2nd most jaccard indexed articles where left side is the given article
+and right side is the 2nd most jaccard indexed value:
+United_Kingdom - Scotland
+Israel - Yemen
+United_States - Driving_on_the_left_or_right
+Algebra - Calculus
+World_War_II - Adolf_Hitler
+3. Precent of the articles of all the articles with dist = 1 from
+Christopher_Columbus - 0.819%
+dist =2 from DNA - 275.518%
+dist =3 from History - 1225%

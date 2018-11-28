@@ -1,0 +1,38 @@
+snirsh
+305500001
+Snir Sharristh
+
+
+list of URLs:
+https://docs.python.org/2/library/sys.html - sys library for argv
+https://docs.python.org/2/library/copy.html - copy library for deep copying
+https://docs.python.org/2/library/math.html - how to use absolute values
+
+======================================================================
+= 						README for ex6:								 =
+======================================================================
+ 
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+the program that is written in ex6.py, using mosaic.py,
+ex6.py is a program that will create a mosaic image from a given image and
+tiles.
+
+mosaic.py is the helper file and the gui of our program.
+
+ex6.py contains the functions that do the calculations needed to create the
+mosaic image using a given algorithm.
+============================
+= list of submitted files: =
+============================
+README	this file
+ex6.py	the main program. creates a mosaic image from a given image using
+		given tiles, given tiles height, and number of candidate of tiles it
+		can use.
+
+======================
+=  Special Comments  =
+======================
+None.

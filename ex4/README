@@ -1,0 +1,24 @@
+snirsh
+305500001
+Snir Sharristh
+
+
+=============================
+=  README for ex4: hangman  =
+=============================
+
+
+usage: hangman_helper.py <a given helper from the exercise>
+
+==================
+=  Description:  =
+==================
+
+a function that will let you play the hangman game. using a gui from
+hangman_helper
+======================
+=  Special Comments  =
+======================
+
+was consulting with aviv feldman-gur
+didn't use any internet sources for this submission

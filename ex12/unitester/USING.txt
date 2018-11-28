@@ -1,0 +1,23 @@
+First, this tester was made by Gal Katzhendler and Omer SHacham
+to use this tester you should run it with the following args
+
+
+tester.exe host port group
+
+
+
+the user name will be a random name from predefined list
+
+to use this tester u can send specific message by writing and click on "confirm"
+or you can flood your server with random shapes (using the buttons) (the man is awesome)
+another thing is you can leave and join the server by click on "leave" or "join"
+
+Join - join the group with random name
+Leave - leave the group..
+confirm - send specific text (from the upper text box)
+send triangle, rectangle, oval, line, man. send predefined shape in random position
+
+You can run this tester in multiple instances..
+
+For any assistant you can call 1-700-70-70-70 and order me a pizzaaaaa 
+Cya and goodluck!

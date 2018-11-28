@@ -1,0 +1,66 @@
+snirsh
+305500001
+Snir Sharristh
+
+
+=============================
+=  README for ex2: terms    =
+=============================
+
+
+usage: math.py <pi value and square root>
+
+==================
+=  Description:  =
+==================
+
+There are 5 different .py files
+1. calculate_mathematical_expression:
+   a code that has two functions that the first one calculates a mathematical
+   expression using n1, n2, and a
+   the second function calculates the same thing using a string input when n1
+   and n2 are given numbers and a
+   is the mathematical notation.
+2. largest_and_smallest:
+   a code that calculates the biggest number and the smallest number using
+   three numbers given to it.
+3. quadratic_equation
+   a code that has two functions that the first one calculates the quadratic
+   equation using three numbers given to it
+   and the second function calculates the quadratic equation by calling the
+   first equation with the users input
+4. shapes:
+   a code that has four functions that the first one calculates the area of a
+   circle by given radius.
+   the second function calculates the area of a rectangle by two given edges.
+   the third function calculates the area of a trapezoid by two given edges and
+   a given height.
+   and the fourth function asks the user what area he chooses to calculate and
+   by the given input and calls the right
+   function that was described above.
+5. bmi:
+   a code that calculate the bmi using spell per hour and wand length and
+   returns a boolean value.
+   if the bmi is between 24.9 and 18.5 it will return true else it will return
+   false.
+=============================
+=  List of submitted files: =
+=============================
+
+README		This file
+calculate_mathematical_expression.py   	calculates a mathematical expression
+                                        using two numbers and a notation
+largest_and_smallest.py                 calculates the max number and the
+                                        min number of three given numbers
+quadratic_equation.py                   calculates the quadratic equation
+                                        by three given numbers
+shapes.py                               calculates the areas of a circle, a
+                                        rectangle or a trapezoid by the given
+                                        user's input.
+bmi.py                                  calculates the bmi of a wizard using
+                                        two given numbers.
+
+======================
+=  Special Comments  =
+======================
+

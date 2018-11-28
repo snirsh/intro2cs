@@ -1,0 +1,24 @@
+snirsh
+305500001
+Snir Sharristh
+
+#################################
+#README for ex0: "Hello World!" #
+#################################
+
+#################
+# Description:  #
+#################
+
+Prints out "Hello World!"
+
+############################
+# List of submitted files: #
+############################
+
+README          This Files
+Hello.py        Contains line Print that prints out "Hello World!"
+
+#####################
+# Special Comments  #
+#####################

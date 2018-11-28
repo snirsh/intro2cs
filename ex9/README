@@ -1,0 +1,40 @@
+snirsh, avivf
+305500001, 200687747
+Snir Sharristh, Aviv Feldman-gur
+
+haven't consulted with anyone.
+haven't used the internet
+======================================================================
+= 						README for ex9:								 =
+======================================================================
+
+=====================================================
+= 					 List of Files: 				=
+=====================================================
+Files submitted:
+ship.py
+torpedo.py
+asteroid.py
+asteroids_main.py
+README - This File
+
+=====================================================
+= 					 Description:  					=
+=====================================================
+there are 5 main programs, the main purpose of them is the game Asteroids!
+this is the list of the files and a short description for each of them:
+screen.py -         A helper given to us for the GUI
+asteroids_main.py - this is the main file. in this file we created the main
+                    methods that run the game.
+ship.py -           this is the file is responsible for the ship that we
+                    play in the game.
+asteroids.py -      this file is responsible for the asteroids that we have
+                    in the game.
+torpedo.py -        this file is responsible for the torpedoes that we have
+                    in the game.
+
+
+======================
+=  Special Comments  =
+======================
+None.
